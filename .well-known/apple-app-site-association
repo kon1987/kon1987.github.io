@@ -1,11 +1,11 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "X285ELQ5RR.ru.uralprombank.mobilebanknew",
-                "paths": ["*"]
-            }
-        ]
-    }
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "uralprombanknew.ru.uralprombank.mobilebanknew",
+				"paths": [ "*" ]
+			}
+		]
+	}
 }
