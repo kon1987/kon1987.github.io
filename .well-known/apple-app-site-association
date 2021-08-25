@@ -5,15 +5,7 @@
             {
                 "appID": "X285ELQ5RR.ru.uralprombank.mobilebanknew",
                 "paths": ["*"]
-            },
-			{
-				"appID": "YEJXN399CN.io.meduza.meduzax",
-				"paths": [ "*" ]
-			},
-			{
-				"appID": "YEJXN399CN.io.meduza.meduza",
-				"paths": [ "*" ]
-			}
+            }
         ]
     }
 }
